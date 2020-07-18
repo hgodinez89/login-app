@@ -32,10 +32,10 @@ Thanks for your visit! 👍
 ## Preview
 
 ![LogIn](https://res.cloudinary.com/developerteam/image/upload/v1595044766/LoginApp/LogIn_rdxtuz.png)
-![NewAccount](https://res.cloudinary.com/developerteam/image/upload/v1595043571/LoginApp/NewAccount.png) 
+![NewAccount](https://res.cloudinary.com/developerteam/image/upload/v1595044766/LoginApp/NewAccount.png) 
 ![AccountSuccess](https://res.cloudinary.com/developerteam/image/upload/v1595044435/LoginApp/AccountSuccess.png) 
-![LogInData](https://res.cloudinary.com/developerteam/image/upload/v1595043571/LoginApp/LogInData.png) 
-![HomeExamplePage](https://res.cloudinary.com/developerteam/image/upload/v1595043570/LoginApp/HomeScreen.png) 
+![LogInData](https://res.cloudinary.com/developerteam/image/upload/v1595044766/LoginApp/LogInData.png) 
+![HomeExamplePage](https://res.cloudinary.com/developerteam/image/upload/v1595044766/LoginApp/HomeScreen.png) 
 
 ## Have questions?
 
