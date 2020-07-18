@@ -188,7 +188,6 @@ class _LoginButton extends State<LoginButton> {
                             widget._bloc.userName, widget._bloc.password);
                         Navigator.pushReplacementNamed(context, 'home');
                       } catch (e) {
-                        print(e.toString());
                         String errorCode = "error_operation_not_allowed";
 
                         if (e.code == 'ERROR_INVALID_EMAIL' ||

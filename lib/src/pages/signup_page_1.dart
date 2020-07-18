@@ -410,7 +410,7 @@ class _LogIn extends StatelessWidget {
             style: TextStyle(color: Colors.white, fontSize: 15.0),
           ),
           Text(
-            LocalizationsUtil.of(context).trans('sign_up'),
+            LocalizationsUtil.of(context).trans('log_in'),
             style: TextStyle(
                 color: Color.fromRGBO(0, 149, 239, 0.8),
                 fontSize: 15.0,

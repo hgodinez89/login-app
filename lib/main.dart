@@ -35,17 +35,17 @@ class MyApp extends StatelessWidget {
         localeResolutionCallback:
             (Locale locale, Iterable<Locale> supportedLocales) {
           for (Locale supportedLocale in supportedLocales) {
-            print("supportedLocale.languageCode " +
-                supportedLocale.languageCode +
-                " locale.languageCode " +
-                locale.languageCode);
-            print("supportedLocale.countryCode " +
-                supportedLocale.countryCode +
-                " locale.countryCode " +
-                locale.countryCode);
+            // print("supportedLocale.languageCode " +
+            //     supportedLocale.languageCode +
+            //     " locale.languageCode " +
+            //     locale.languageCode);
+            // print("supportedLocale.countryCode " +
+            //     supportedLocale.countryCode +
+            //     " locale.countryCode " +
+            //     locale.countryCode);
             if (supportedLocale.languageCode == locale.languageCode) {
               prefs.language = locale.languageCode;
-              print(locale.languageCode);
+              // print(locale.languageCode);
               return supportedLocale;
             }
           }
