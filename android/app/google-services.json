@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708461137150",
+    "firebase_url": "https://login-base-9cddc.firebaseio.com",
+    "project_id": "login-base-9cddc",
+    "storage_bucket": "login-base-9cddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708461137150:android:6fd5fe35a077f54b6769af",
+        "android_client_info": {
+          "package_name": "dev.hanzelgodinez.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708461137150-7io417b6df74dkc0eet2ge51deloqe82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.hanzelgodinez.login_app",
+            "certificate_hash": "0e59d2d58e484440f1852a42d2690f439546e941"
+          }
+        },
+        {
+          "client_id": "708461137150-ejk2h037vddrch3fg5f14u6pguf66tad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc2Rl2hmP_TYPvucpyB6ewr3nqCJLSfAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708461137150-ejk2h037vddrch3fg5f14u6pguf66tad.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708461137150-316ieho097jruoefmak3cvlomtu21h14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.hanzelgodinez.login-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
